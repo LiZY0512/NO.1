@@ -1,0 +1,24 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+
+    <ImageView
+        android:id="@+id/iv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="400dp"
+        android:layout_marginTop="5dp"
+        android:scaleType="fitCenter"
+        android:src="@drawable/bluetoot" />
+
+    <TextView
+        android:id="@+id/tv_book_cover"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_marginTop="0dp"
+        android:gravity="center"
+        android:text="无线双耳蓝牙耳机运动适用\n小米OPPO华为vivo安卓iPhone通用"
+        android:textColor="@color/blue_black"
+        android:textSize="20sp" />
+
+</LinearLayout>

@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="et_password_first" type="id" />
+    <item name="et_password_second" type="id" />
+    <item name="et_verifycode" type="id" />
+    <item name="btn_verifycode" type="id" />
+    <item name="btn_confirm" type="id" />
+    <item name="rg_login" type="id" />
+    <item name="rb_password" type="id" />
+    <item name="rb_verifycode" type="id" />
+    <item name="et_phone" type="id" />
+    <item name="tv_password" type="id" />
+    <item name="et_password" type="id" />
+    <item name="btn_forget" type="id" />
+    <item name="btn_login" type="id" />
+    <item name="ck_remember" type="id" />
+    <item name="sp_type" type="id" />
+</resources>
